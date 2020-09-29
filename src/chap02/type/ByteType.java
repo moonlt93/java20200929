@@ -27,6 +27,7 @@ public class ByteType {
 		
 		
 		byte byteValue;
+			
 		byte Value=0;
 		System.out.println(byteValue);
 		
@@ -37,7 +38,7 @@ public class ByteType {
 		System.out.println(byteValue);
 	
 	byteValue++;
-	System.out.println(bytevalue);
+	System.out.println(byteValue);
 	
 	}
 
