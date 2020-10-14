@@ -4,7 +4,7 @@ public class StringCharAtExample {
 
 	public static void main(String[] args) {
 		String ssn ="010624-1230123";
-		char sex = ssn.charAt(4);
+		char sex = ssn.charAt(1);
 		switch (sex) {
 			case '1':
 			case '3':
