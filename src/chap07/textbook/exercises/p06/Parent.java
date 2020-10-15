@@ -5,7 +5,7 @@ public class Parent {
 	
 	
 	public Parent() {
-		this("대한민국");
+		this("대한민국");//parent(string) 메소드 실행  
 		System.out.println("parent() call");
 	}
 	 
